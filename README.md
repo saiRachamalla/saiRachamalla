@@ -1,9 +1,9 @@
 - 👋 Hi there, I’m ..@SAIPOORNIMA RACHAMALLA..
-- 👀 I’m interested in ..COMPUTER VISION..
-- 🌱 I’m currently working on .. COMPUTER VISION & MACHINE LEARNING..
- - :office: I’m currently studying at ..JNTUA
+- 👀 Interested in ..COMPUTER VISION..
+- 🌱 Working on .. COMPUTER VISION & MACHINE LEARNING..
+ - :office: Currently studying at ..JNTUA
 
-- :blush: I,m familiar with ..c,java,html,css, javascript..
+- :blush: Familiar with ..C,JAVA,HTML,CSS, JAVASCRIPT..
 
 
               
