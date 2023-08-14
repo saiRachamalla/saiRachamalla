@@ -1,8 +1,7 @@
 - 👋 Hi there, I’m ..@SAIPOORNIMA RACHAMALLA..
 - 👀 Interested in ..FullStack Development..
 - 🌱 Working on .. FrontEnd & Java Projects..
- - :office: Currently studying at ..JNTUA
-
+ - :office: Btech Graduate from Jawaharlal Nehru Technological University Anantapur..
 - :blush: Familiar with ..C,JAVA,HTML,CSS,JAVASCRIPT,PYTHON,SQl,..
 
 
